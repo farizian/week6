@@ -1,0 +1,17 @@
+Algoritma Deteksi Palindrom
+
+1. mulai
+2. input teks dalam bentuk angka urutan abjad huruf
+3. pecah angka urutan abjad huruf dengan array
+4. balik angka yang sudah di array
+5. apabila angka output sama dengan angka input maka cetak "palindrom"
+6. jika tidak maka cetak "bukan palindrom"
+7. selesai
+
+Algoritma Reverse Words
+1. mulai
+2. input teks dalam bentuk string
+3. pecah per kalimat dengan array
+4. balik urutan kata-kata yang sudah di array
+5. output teks dalam bentuk string
+6. selesai

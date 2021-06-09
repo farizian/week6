@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 50px;
+    background-color: gray;
+}
+.header{
+    height: 100px;
+    background-color: yellowgreen;
+}
+.aside{
+    height: 300px;
+    background-color: brown;
+}
+ .links1{
+    height: 50px;
+    background-color: blueviolet;
+}
+ .links2{
+    height: 100px;
+    background-color: blue;
+}
+.footer{
+    height: 200px;
+    background-color: red;
+}
