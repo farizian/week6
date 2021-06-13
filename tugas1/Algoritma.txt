@@ -1,7 +1,8 @@
 Algoritma Deteksi Palindrom
 
 1. mulai
-2. input teks dalam bentuk angka urutan abjad huruf
+2. input kata 
+3. ubah kata per huruf menjadi angka berdasarkan urutan abjad huruf
 3. pecah angka urutan abjad huruf dengan array
 4. balik angka yang sudah di array
 5. apabila angka output sama dengan angka input maka cetak "palindrom"
