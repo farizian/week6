@@ -1,24 +1,18 @@
-const biodata = [
-    nama = "Fariz Irfan Rifai",
-    age = 23,
-    hobbies = [ "music", "games", "sport", "sleep", "eat"],
-    ismarried = false,
-    schoollist = [
-        { 
-          name : "RA Miftahul Huda",
-          major : undefined,
-          yearIn: 2001,
-          yearOut: 2003,
-        },
+const biodata = {
+    nama : "Fariz Irfan Rifai",
+    age : 23,
+    hobbies : [ "music", "games", "sport", "sleep", "eat"],
+    ismarried : false,
+    schoollist : [
         { 
           name : "SDI Miftahul Huda",
-          major : undefined,
+          major : null,
           yearIn: 2003,
           yearOut: 2009,
         },
         { 
           name : "SMPN 1 Pasar Kemis",
-          major : undefined,
+          major : null,
           yearIn: 2009,
           yearOut: 2012,
         },
@@ -35,14 +29,14 @@ const biodata = [
           yearOut: 2019,
         },
     ],
-    skills = [
+    skills : [
         { 
           skillname : "mixing music",
           level : "advanced",
         },
         { 
           skillname : "photoshop",
-          level : "advanced",
+          level : "medium",
         },
         { 
           skillname : "driving car",
@@ -61,6 +55,7 @@ const biodata = [
           level : "advanced",
         },
     ],
-];
+    interestInCoding : true,
+  };
 
 console.log(biodata)
