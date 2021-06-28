@@ -50,18 +50,18 @@ const transactions = [
   let total1id1 = satu[0].price * satu[0].qty
   let total1id2 = satu[1].price * satu[1].qty
   let totalsatu = total1id1 + total1id2
-  console.log(totalsatu)
+  console.log("Rp."+totalsatu)
 // soal no 2
   let total2id1 = dua[0].price * dua[0].qty
   let total2id2 = dua[1].price * dua[1].qty
   let totaldua = total2id1 + total2id2
-  console.log(totaldua)
+  console.log("Rp."+totaldua)
 // soal no 3
-  console.log(total1id2)
+  console.log("Rp."+total1id2)
 // soal no 4
-  console.log(total1id1)
+  console.log("Rp."+total1id1)
 // soal no 5
-  console.log(total2id1)
+  console.log("Rp."+total2id1)
 // soal no 6
-  console.log(total2id2)
+  console.log("Rp."+total2id2)
 
